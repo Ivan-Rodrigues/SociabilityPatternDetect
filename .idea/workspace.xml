@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a769492-eea2-4530-a7d5-4d71960486ec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Esper$StartDemo.ic" NAME="StartDemo Coverage Results" MODIFIED="1568651521392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.esper.Esper.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SNSdtKcSCXTfPPVUIV20w0mBOy" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571072629454" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fcls" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.esper.Esper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\fcls" />
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\src\main\java\com" />
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\src\main\java\com\esper\Esper\drift\detection" />
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\src\main\java\com\esper\Esper\algorithm\drift" />
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\src\main\java\com\esper\Esper\util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.esper.Esper.subscriber" />
+      <recent name="com.esper.Esper.model" />
+      <recent name="com.esper.Esper.enums" />
+      <recent name="com.esper.Esper.drift.detection.strategy" />
+      <recent name="com.esper.Esper.drift.detection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper" />
+      <recent name="C:\Users\ivanr\OneDrive\Documentos\Intellij projects\Esper\src" />
+      <recent name="C:\Users\ivanr\Downloads\Esper\dataset" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartDemo">
+    <configuration name="ClockGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esper.Esper.ClockGui" />
+      <module name="Esper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esper.Esper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSimilarity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esper.Esper.util.DemoSimilarity" />
+      <module name="Esper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esper.Esper.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriftDetectInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esper.Esper.subscriber.DriftDetectInterval" />
+      <module name="Esper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esper.Esper.subscriber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esper.Esper.Main" />
+      <module name="Esper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esper.Esper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.esper.Esper.StartDemo" />
+      <module name="Esper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esper.Esper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Esper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esper.Esper.EsperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartDemo" />
+      <item itemvalue="Application.ClockGui" />
+      <item itemvalue="Application.DriftDetectInterval" />
+      <item itemvalue="Application.DemoSimilarity" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Spring Boot.EsperApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemoSimilarity" />
+        <item itemvalue="Application.DriftDetectInterval" />
+        <item itemvalue="Application.ClockGui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a769492-eea2-4530-a7d5-4d71960486ec" name="Default Changelist" comment="" />
+      <created>1558829515017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558829515017</updated>
+      <workItem from="1558829519397" duration="6769000" />
+      <workItem from="1558900419456" duration="25000" />
+      <workItem from="1559402464485" duration="757000" />
+      <workItem from="1559868753219" duration="4856000" />
+      <workItem from="1559920372012" duration="7144000" />
+      <workItem from="1560003429810" duration="2753000" />
+      <workItem from="1560186711843" duration="629000" />
+      <workItem from="1560194425750" duration="2037000" />
+      <workItem from="1560304937233" duration="2434000" />
+      <workItem from="1560633314718" duration="13109000" />
+      <workItem from="1560692302281" duration="31913000" />
+      <workItem from="1560800360058" duration="27000" />
+      <workItem from="1560868636268" duration="13555000" />
+      <workItem from="1560947520397" duration="5074000" />
+      <workItem from="1561487158933" duration="3063000" />
+      <workItem from="1561553683178" duration="5209000" />
+      <workItem from="1562161327368" duration="816000" />
+      <workItem from="1562204907577" duration="1681000" />
+      <workItem from="1562294101482" duration="535000" />
+      <workItem from="1562350021349" duration="900000" />
+      <workItem from="1562428909330" duration="4908000" />
+      <workItem from="1563561725497" duration="267000" />
+      <workItem from="1563579906895" duration="4658000" />
+      <workItem from="1563591124104" duration="1590000" />
+      <workItem from="1563730446784" duration="2103000" />
+      <workItem from="1563888750436" duration="2488000" />
+      <workItem from="1564070803798" duration="2726000" />
+      <workItem from="1564144731804" duration="5236000" />
+      <workItem from="1564176656448" duration="2681000" />
+      <workItem from="1564343004251" duration="3564000" />
+      <workItem from="1564418983558" duration="47723000" />
+      <workItem from="1564616802265" duration="9916000" />
+      <workItem from="1565461958068" duration="8453000" />
+      <workItem from="1565613331812" duration="5027000" />
+      <workItem from="1565622714488" duration="17613000" />
+      <workItem from="1565872280890" duration="4356000" />
+      <workItem from="1566140245142" duration="4504000" />
+      <workItem from="1566214875556" duration="5332000" />
+      <workItem from="1566398585639" duration="98000" />
+      <workItem from="1566398910134" duration="20491000" />
+      <workItem from="1566934574256" duration="23000" />
+      <workItem from="1566999945040" duration="41000" />
+      <workItem from="1567467988636" duration="6833000" />
+      <workItem from="1567687725555" duration="10910000" />
+      <workItem from="1567785000499" duration="9133000" />
+      <workItem from="1567806908511" duration="7098000" />
+      <workItem from="1567872151615" duration="15808000" />
+      <workItem from="1568030472638" duration="27436000" />
+      <workItem from="1568164204744" duration="6976000" />
+      <workItem from="1568244086143" duration="6140000" />
+      <workItem from="1568288511745" duration="17523000" />
+      <workItem from="1568635522076" duration="3939000" />
+      <workItem from="1568644602142" duration="16916000" />
+      <workItem from="1568720280817" duration="8007000" />
+      <workItem from="1568830487054" duration="781000" />
+      <workItem from="1569239431694" duration="12000" />
+      <workItem from="1569241876072" duration="27599000" />
+      <workItem from="1569628104763" duration="9186000" />
+      <workItem from="1569693378940" duration="3855000" />
+      <workItem from="1569844122310" duration="198000" />
+      <workItem from="1569848801084" duration="760000" />
+      <workItem from="1569978444567" duration="5523000" />
+      <workItem from="1570650623450" duration="2124000" />
+      <workItem from="1570977414704" duration="16214000" />
+      <workItem from="1571402652410" duration="14201000" />
+      <workItem from="1571612175768" duration="7081000" />
+      <workItem from="1571784553529" duration="271000" />
+      <workItem from="1572046575745" duration="2589000" />
+      <workItem from="1572267155914" duration="1275000" />
+      <workItem from="1572370174025" duration="9657000" />
+      <workItem from="1572395711641" duration="729000" />
+      <workItem from="1572396455045" duration="5143000" />
+      <workItem from="1572446884856" duration="18593000" />
+      <workItem from="1573060640705" duration="719000" />
+      <workItem from="1573574100965" duration="335000" />
+      <workItem from="1573646621668" duration="86000" />
+      <workItem from="1573860697840" duration="3807000" />
+      <workItem from="1573924132178" duration="6059000" />
+      <workItem from="1573993425793" duration="18437000" />
+      <workItem from="1574167131654" duration="21706000" />
+      <workItem from="1574255215868" duration="10948000" />
+      <workItem from="1574345258889" duration="600000" />
+      <workItem from="1574361442806" duration="304000" />
+      <workItem from="1574683388510" duration="22447000" />
+      <workItem from="1574771311259" duration="8508000" />
+      <workItem from="1574860765864" duration="6417000" />
+      <workItem from="1574894679271" duration="20313000" />
+      <workItem from="1575049989524" duration="1794000" />
+      <workItem from="1575219723845" duration="5742000" />
+      <workItem from="1575289069876" duration="2850000" />
+      <workItem from="1575374409805" duration="610000" />
+      <workItem from="1575484203940" duration="8509000" />
+      <workItem from="1575504751649" duration="7175000" />
+      <workItem from="1575721144791" duration="287000" />
+      <workItem from="1576244049045" duration="63000" />
+      <workItem from="1576676599271" duration="441000" />
+      <workItem from="1576677070144" duration="12000" />
+      <workItem from="1577149371110" duration="640000" />
+      <workItem from="1577452009969" duration="2607000" />
+      <workItem from="1577732635119" duration="4085000" />
+      <workItem from="1577737678540" duration="839000" />
+      <workItem from="1577968949353" duration="3327000" />
+      <workItem from="1578067099750" duration="1314000" />
+      <workItem from="1578142264311" duration="1492000" />
+      <workItem from="1578313255040" duration="122000" />
+      <workItem from="1580343039737" duration="101000" />
+      <workItem from="1580490686112" duration="4227000" />
+      <workItem from="1580515771362" duration="629000" />
+      <workItem from="1580602992616" duration="499000" />
+      <workItem from="1580951912580" duration="1509000" />
+      <workItem from="1581010690124" duration="970000" />
+      <workItem from="1582213319054" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/esper/Esper/subscriber/AbnormalBehaviorListener.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

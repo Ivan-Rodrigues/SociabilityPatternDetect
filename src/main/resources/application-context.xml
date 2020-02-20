@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:context="http://www.springframework.org/schema/context"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+http://www.springframework.org/schema/jms ">
+
+	<!-- Process Spring Annotations
+	<bean id="sociabilityPattern"
+		  class="com.esper.Esper.builder.SociabilityPattern.Builder"/>
+
+	<bean id="enrichEvent"
+		  class="com.esper.Esper.handler.EnrichEvent"/>
+
+	<bean id="extractPattern"
+		  class="com.esper.Esper.handler.ExtractPattern">
+	</bean>
+
+    <bean id="candidateEventListener"
+          class="com.esper.Esper.subscriber.AbnormalBehaviorListener"/>
+          <bean id="eventGenerator"
+		  class="com.esper.Esper.util.EventGenerator"/>
+-->
+	<context:component-scan base-package="com.esper.Esper"/>
+
+
+
+</beans>
